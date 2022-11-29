@@ -1,3 +1,3 @@
 # Web Scrapping using Beautiful Soap
 
-link repo deployed : https://hub.ovh2.mybinder.org/user/josueversace-web-scrapping-nft59sz7/doc/workspaces/auto-u/tree/main.ipynb
+link repo deployed : https://mybinder.org/v2/gh/josueversace/Web-Scrapping/347d824f53f50fc1b67651aec147b9f72e671cc3?urlpath=lab%2Ftree%2Fmain.ipynb
